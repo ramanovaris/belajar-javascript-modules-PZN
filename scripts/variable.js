@@ -1,0 +1,1 @@
+export const name = "Rama Novaris Ayyubi Pratama";
